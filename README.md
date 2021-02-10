@@ -4,7 +4,7 @@ One Monokai color theme for GNOME Terminal
 ### How to apply theme:
 Download 'one-monokai.dconf' file
 1. Create a new profile in GNOME Terminal settings, rename it to e.g. 'default'. The name will be overwritten on import, you can then rename it again to what you want
-   This step is not necessary if you already have created a profile that is not the default "unnamed" profile.
+   This step is not necessary if you already have created a profile that is not the default "unnamed" profile. Just note that the profile's settings will be overwritten.
 2. Set the new profile as the default profile
 3. run `dconf dump /org/gnome/terminal/legacy/profiles:/`, see that it returns output similar to this:
 
