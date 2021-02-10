@@ -1,0 +1,12 @@
+[/]
+audible-bell=true
+background-color='rgb(40,44,52)'
+custom-command=''
+font='Monospace 13'
+foreground-color='rgb(215,218,224)'
+login-shell=false
+palette=['rgb(45,49,57)', 'rgb(224,108,117)', 'rgb(152,195,121)', 'rgb(229,192,123)', 'rgb(82,139,255)', 'rgb(198,120,221)', 'rgb(86,182,194)', 'rgb(215,218,224)', 'rgb(127,132,142)', 'rgb(244,71,71)', 'rgb(152,195,121)', 'rgb(229,192,123)', 'rgb(82,139,255)', 'rgb(126,0,151)', 'rgb(86,182,194)', 'rgb(215,218,224)']
+use-custom-command=false
+use-system-font=true
+use-theme-colors=false
+visible-name='One Monokai by 0ranki'
