@@ -1,5 +1,11 @@
-# one-monokai-gnome-terminal-color-theme
-One Monokai color theme for GNOME Terminal
+# monokai-soda-gnome-terminal-color-theme
+Monokai soda color theme for GNOME Terminal
+
+### Credits
+- @0ranki : Forked from https://github.com/0ranki/one-monokai-gnome-terminal-color-theme
+- @max-k : Color values from https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/lxterminal/Monokai%20Soda.conf
+---------------------------------------------------------------------
+### Original README from @0ranki:
 
 ### How to apply theme:
 Download 'one-monokai.dconf' file
