@@ -1,9 +1,13 @@
 # monokai-soda-gnome-terminal-color-theme
 Monokai soda color theme for GNOME Terminal
 
+### Screenshot
+![Screenshot](screenshot.png)
+
 ### Credits
 - @0ranki : Forked from https://github.com/0ranki/one-monokai-gnome-terminal-color-theme
 - @max-k : Color values from https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/lxterminal/Monokai%20Soda.conf
+- Script to generate screenshot from https://github.com/mbadolato/iTerm2-Color-Schemes
 ---------------------------------------------------------------------
 ### Original README from @0ranki with replaced filenames:
 
