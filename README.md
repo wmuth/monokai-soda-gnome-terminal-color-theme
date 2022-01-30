@@ -5,10 +5,10 @@ Monokai soda color theme for GNOME Terminal
 - @0ranki : Forked from https://github.com/0ranki/one-monokai-gnome-terminal-color-theme
 - @max-k : Color values from https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/lxterminal/Monokai%20Soda.conf
 ---------------------------------------------------------------------
-### Original README from @0ranki:
+### Original README from @0ranki with replaced filenames:
 
 ### How to apply theme:
-Download 'one-monokai.dconf' file
+Download 'monokai-soda.dconf' file
 1. Create a new profile in GNOME Terminal settings, rename it to e.g. 'default'. The name will be overwritten on import, you can then rename it again to what you want
    This step is not necessary if you already have created a profile that is not the default "unnamed" profile. Just note that the profile's settings will be overwritten.
 2. Set the new profile as the default profile
@@ -23,7 +23,7 @@ Download 'one-monokai.dconf' file
     visible-name='default'
 
 4. Copy the UUID of the created profile (in the example it is :e27d087d-18c4-4b72-83be-c84103543515 )
-5. Run `dconf load /org/gnome/terminal/legacy/profiles:/:e27d087d-18c4-4b72-83be-c84103543515/ < one-monokai.dconf`
+5. Run `dconf load /org/gnome/terminal/legacy/profiles:/:e27d087d-18c4-4b72-83be-c84103543515/ < monokai-soda.dconf`
    Replace the UUID with the one from your profile.
    This will import the settings from the file to the profile and also apply it as the current profile.
    <b>Note the trailing `/` after the UUID in the command</b>
